@@ -20,7 +20,7 @@ A fast, minimal image classification API powered by **FastAPI**, **PyTorch**, an
 
 ### 1. Clone the Repo
 
-```bash
+bash
 git clone https://github.com/brightsun10/image-classifier.git
 cd image-classifier
 

@@ -1,3 +1,0 @@
-# .huggingface.yml
-title: Image Classifier
-sdk: docker

@@ -50,7 +50,7 @@ docker run -p 7860:7860 image-classifier
 ---
 
 ## 🧾 File Structure
-.
+
 ├── main.py                 # FastAPI app
 
 ├── Dockerfile              # Docker config
@@ -98,7 +98,9 @@ MIT License
 
 ---
 
-Author
-Nithin P nithinpsea10@gmail.com
+## Author
+
+Name : Nithin P 
+Email : nithinpsea10@gmail.com
 
 ---

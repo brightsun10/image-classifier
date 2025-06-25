@@ -34,7 +34,7 @@ wget https://raw.githubusercontent.com/pytorch/hub/master/imagenet_classes.txt
 
 ### 3. Run Locally
 
-With Python:
+#### With Python:
 
 pip install -r requirements.txt
 
@@ -42,7 +42,7 @@ uvicorn main:app --reload --port 7860
 
 Visit: http://localhost:7860
 
-Or With Docker:
+#### With Docker:
 
 docker build -t image-classifier .
 docker run -p 7860:7860 image-classifier

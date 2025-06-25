@@ -101,6 +101,7 @@ MIT License
 ## Author
 
 Name : Nithin P 
+
 Email : nithinpsea10@gmail.com
 
 ---

@@ -100,8 +100,6 @@ MIT License
 
 ## Author
 
-Name : Nithin P 
-
-Email : nithinpsea10@gmail.com
+Made with ❤️ by Nithin P (brightsun10)
 
 ---
